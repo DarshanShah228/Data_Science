@@ -1,0 +1,23 @@
+[
+  {
+    "id": 101,
+    "name": "Rahul Sharma",
+    "course": "MCA",
+    "gpa": 8.5,
+    "skills": ["Python", "Java"],
+    "contact": {
+      "email": "rahul@email.com",
+      "phone": "9876543210"
+    }
+  },
+  {
+    "id": 102,
+    "name": "Priya Patel",
+    "course": "MCA",
+    "gpa": 9.2,
+    "skills": ["Data Science", "R", "SQL"],
+    "contact": {
+      "email": "priya@email.com"
+    }
+  }
+]
